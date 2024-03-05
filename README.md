@@ -1,4 +1,4 @@
-# youtube-db-design
+# db-design
 ![Relations](erd-cardinality-guide.png)
 ## DB normalization (normal forms)
 - Attributes should only have single (atomic) values.
